@@ -30,7 +30,7 @@ lambda/mock/index.js
 .temp/**
 
 # umi
-.umi
+umi
 .umi-production
 
 # screenshot
